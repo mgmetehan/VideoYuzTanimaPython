@@ -1,1 +1,1 @@
-# PythonVideoY-zTan-ma
+# VideoYuzTanimaPython
